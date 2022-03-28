@@ -1,0 +1,65 @@
+{
+  "id": "3249324",
+  "name": "微博",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "924704",
+      "name": "热度",
+      "font_class": "redu",
+      "unicode": "e619",
+      "unicode_decimal": 58905
+    },
+    {
+      "icon_id": "6682549",
+      "name": "添加",
+      "font_class": "tianjia",
+      "unicode": "e609",
+      "unicode_decimal": 58889
+    },
+    {
+      "icon_id": "8220447",
+      "name": "直播_44",
+      "font_class": "zhibo_",
+      "unicode": "e6bf",
+      "unicode_decimal": 59071
+    },
+    {
+      "icon_id": "4948953",
+      "name": "放大镜",
+      "font_class": "fangdajing",
+      "unicode": "e610",
+      "unicode_decimal": 58896
+    },
+    {
+      "icon_id": "1901655",
+      "name": "转发",
+      "font_class": "zhuanfa",
+      "unicode": "e600",
+      "unicode_decimal": 58880
+    },
+    {
+      "icon_id": "10937697",
+      "name": "赞",
+      "font_class": "good",
+      "unicode": "e62a",
+      "unicode_decimal": 58922
+    },
+    {
+      "icon_id": "13604337",
+      "name": "更多",
+      "font_class": "gengduo",
+      "unicode": "e63c",
+      "unicode_decimal": 58940
+    },
+    {
+      "icon_id": "26182285",
+      "name": "消息",
+      "font_class": "xiaoxi",
+      "unicode": "e615",
+      "unicode_decimal": 58901
+    }
+  ]
+}
